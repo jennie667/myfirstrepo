@@ -1,2 +1,3 @@
 # myfirstrepo
-this is tessting of my first repository 
+## editing this file
+this is testing of my first repository 
